@@ -10,7 +10,10 @@
 
 ## 🚀 About Me
 
-Data Science undergraduate at the University of Michigan with a passion for **machine learning**, **natural language processing**, and **creative AI applications**. I build intelligent systems that solve real-world problems—from hate speech detection models to AI-powered music recommendation engines. Known for combining rigorous ML fundamentals with inventive problem-solving across hackathons and personal projects.
+Data Science undergraduate at the University of Michigan with a passion for **machine learning**, **natural language processing**, and **creative AI applications**. 
+Author of 
+["Tracing Online Hate Long-Term: Using Machine Learning to Connect Twitter Usage Per Year to Its Hate Speech" ](https://criticaldebateshsgj.scholasticahq.com/article/141456-tracing-online-hate-long-term-using-machine-learning-to-connect-twitter-usage-per-year-to-its-hate-speech)
+
 
 **🎯 Current Focus:** Advancing NLP techniques, end-to-end recommendation systems, and applying computer vision to real-time monitoring challenges.
 

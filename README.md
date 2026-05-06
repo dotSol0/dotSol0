@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+NLP;University+of+Michigan+%7C+Class+of+2025;Building+intelligent+systems+that+matter)](https://github.com/dotSol0)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+NLP;University+of+Michigan+%7C+Class+of+2028;Writing+stories+through+technology)](https://github.com/dotSol0)
 
 </div>
 
